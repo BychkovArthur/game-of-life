@@ -1,2 +1,2 @@
-# Game-Life-
-Game "Life" on pure C
+# game-of-life
+Game of Life on C.
